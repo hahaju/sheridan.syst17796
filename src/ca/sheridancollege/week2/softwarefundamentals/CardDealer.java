@@ -20,6 +20,8 @@ public class CardDealer
 
         Card HayoungJung = new Card("hearts", 6);
         System.out.println(HayoungJung.getSuit());
+
+        Card HJ2 = new Card("diamonds", 5);
         
     }
 }
