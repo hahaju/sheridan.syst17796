@@ -5,6 +5,8 @@
  */
 package ca.sheridancollege.week2.softwarefundamentals;
 
+// Student number : 991662891
+
 /**
  * The class where we create Cards
  * @author dancye, 2019
@@ -15,5 +17,7 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
+
+        Card HayoungJung = new Card("hearts", 6);
     }
 }
